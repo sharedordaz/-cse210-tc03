@@ -1,7 +1,8 @@
 # -cse210-tc03
 
 david-bio
-My name is David Esguerra, I'm 21 years old.      
+My name is David Esguerra, I'm 21 years old.
+      
 -----------
 BYU-I Team 2
 edward3-bio
